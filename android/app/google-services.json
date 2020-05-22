@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955072984557",
+    "firebase_url": "https://waste-pune.firebaseio.com",
+    "project_id": "waste-pune",
+    "storage_bucket": "waste-pune.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955072984557:android:78ff2fce75317afdb5a3e4",
+        "android_client_info": {
+          "package_name": "com.wastedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955072984557-u8mh7auapq1b6ghh2g9sdg940mvrmcbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wastedemo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "955072984557-tb98v0iaeu6ptikatmi72jrrepefgoih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNosejGFgJKPKPg4kWQ33kXufXoMIvdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955072984557-tb98v0iaeu6ptikatmi72jrrepefgoih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
